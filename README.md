@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cleedee (Cláudio Torcato)
-- 👀 I’m interested in Python, Flask, Kivy and Data Science.
-- 🌱 I’m currently learning Kivy, Git and Kivy.
+- 👀 I’m interested in Python, Plone e React.
+- 🌱 I’m currently learning Git, Drupal and React.
 - 📫 How to reach me: claudiotorcato@gmail.com
 
 <!---
